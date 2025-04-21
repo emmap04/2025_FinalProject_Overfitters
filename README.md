@@ -52,7 +52,6 @@ Our approach includes:
   - Mean Squared Error (MSE)
   - R-squared (R²)
   - Accuracy
-  - Confusion matrix
   - Classification report  
 - Visualizations including:
   - Pairplots for highest/lowest correlated feature models
